@@ -1,1 +1,1 @@
-print('synag gidip dur')
+
