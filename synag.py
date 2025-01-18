@@ -1,1 +1,1 @@
-print('Bu bir synag')
+print ('synag gidip dur')
